@@ -1,4 +1,4 @@
-### Olá mundo ! 👋
+### Hello, World! 👋
 
 🔭 - Atualmente cursando a gradução de Engenharia de Computação pelo CEFET-MG. Formado no ensino médio no Colégio Militar de Belo Horizonte (2018). 
 
