@@ -1,6 +1,6 @@
 ### Hello, World! 👋
 
-🔭 - Atualmente cursando a gradução de Engenharia de Computação pelo CEFET-MG. 
+🔭 - Atualmente cursando a gradução de Engenharia de Computação pelo CEFET-MG. </p> <img src="https://www.cefetmg.br/wp-content/uploads/2019/11/logo_topo.png" alt="CEFET-MG"> </p>
 
 📚 - Formado no ensino médio no Colégio Militar de Belo Horizonte (2018). 
 
