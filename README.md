@@ -6,5 +6,5 @@
 
 💬 - Apaixonado por jogos online e por vôlei.
 
-📫 - <br/> :email: &nbsp; Contatos: [![Linkedin Badge](https://img.shields.io/badge/-alexandreroque13-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandreroque13/)](https://www.linkedin.com/in/alexandreroque13/) 
+📫 - <br/> Contatos: [![Linkedin Badge](https://img.shields.io/badge/-alexandreroque13-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandreroque13/)](https://www.linkedin.com/in/alexandreroque13/) 
 
