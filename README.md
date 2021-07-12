@@ -7,7 +7,7 @@
 
 🌱 - Meu objetivo é ser expert em: - Inteligência Artificial - Desenvolvimento de Jogos - Mecatrônica - Robótica - Design Gráfico.
 
-💬 - Apaixonado por jogos online e por vôlei.
+💬 - Focado e proativo, curto jogos online e vôlei.
 
 <p align="left"> 📫 - Contatos: 
   <a href="alexandre.1313@gmail.com" alt="Gmail">
