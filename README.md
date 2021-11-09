@@ -1,4 +1,4 @@
-### Hello, World! 👋
+### Hello, World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" min-width="36x" max-width="36px" width="36px" align="top" alt="HELLO"></a> 
 
 🔭 - Atualmente cursando a gradução de Engenharia de Computação pelo CEFET-MG. <a href="https://www.cefetmg.br">
 						<img src="https://www.cefetmg.br/wp-content/uploads/2019/11/logo_topo.png" min-width="300x" max-width="300px" width="300px" align="right" alt="CEFET-MG"></a> 
