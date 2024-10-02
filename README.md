@@ -1,6 +1,6 @@
 ### Hello, World! <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="32px" style="max-width: 100%;"></a>
 
-🔭 - Atualmente cursando a gradução de Engenharia de Computação pelo CEFET-MG. <a href="https://www.cefetmg.br">
+🔭 - Atualmente graduado em Engenharia de Computação pelo CEFET-MG. <a href="https://www.cefetmg.br">
 						<img src="https://www.cefetmg.br/wp-content/uploads/2019/11/logo_topo.png" min-width="300x" max-width="300px" width="300px" align="right" alt="CEFET-MG"></a> 
 
 📚 - Formado no ensino médio no Colégio Militar de Belo Horizonte (2018). 
