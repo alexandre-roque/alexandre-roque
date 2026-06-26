@@ -1,6 +1,6 @@
 ### Hello, World! <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="32px" style="max-width: 100%;"></a>
 
-💻 - Product Software Engineer na SYDLE
+💻 - Product Tech Lead na SYDLE
 
 🔭 - Graduado em Engenharia de Computação pelo <a href="https://www.cefetmg.br">CEFET-MG</a>
 
